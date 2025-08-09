@@ -1,9 +1,8 @@
 # URL_Shortener
 This is a simple URL Shortener application created using Python's Tkinter library. This application allows you to shorten long URLs quickly and easily.
 
-
 ## 🎥 Watch It in Action  
-[![URL Shortener Demo]](URL_shortener.mp4)
+[![URL Shortener Demo](https://img.shields.io/badge/▶️-Watch%20Video-blue)](URL_shortener.mp4)
 
 ## Features
 - Enter a long URL into the input field.
