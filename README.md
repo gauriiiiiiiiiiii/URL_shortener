@@ -3,7 +3,7 @@ This is a simple URL Shortener application created using Python's Tkinter librar
 
 
 ## 🎥 Watch It in Action  
-[![URL Shortener Demo]](D:\Projects\URL_shortener\URL_shortener.mp4)
+[![URL Shortener Demo]](URL_shortener.mp4)
 
 ## Features
 - Enter a long URL into the input field.
